@@ -7,7 +7,7 @@ Salarea is a TVA, Retro-Themed, Console Style, Salary Management Platform for So
 
 ![Employee Entry](screenshots/entry.png)
 
-![Salary Slip](screenshots/your-image.png)
+![Salary Slip](screenshots/slip.png)
 ---
 
 ## What It Does
