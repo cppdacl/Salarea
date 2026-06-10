@@ -1,0 +1,10 @@
+pub const REGULAR_HOURS_PER_WEEK: f64 = 40.0;
+pub const WEEKS_PER_MONTH: f64 = 4.0;
+pub const OVERTIME_RATE_MULTIPLIER: f64 = 1.25;
+pub const PAGIIBIG_LOW_FIXED: f64 = 100.0;
+pub const PAGIIBIG_LOW_THRESHOLD: f64 = 5000.0;
+pub const PAGIIBIG_HIGH_RATE: f64 = 0.03;
+pub const PHILHEALTH: f64 = 120.0;
+pub const PHILHEALTH_MIN_HOURS: f64 = 10.0;
+pub const TRANSPORT_PER_WEEK: f64 = 5000.0;
+pub const DEPENDENT_DEDUCTION: f64 = 1000.0;
