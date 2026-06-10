@@ -1,4 +1,4 @@
-# Salarea — Payroll Management System
+# Salarea | A Payroll Management System
 
 Final project for **Programming Languages** subject.
 Built in **Rust** using `eframe` + `egui` for the GUI.
