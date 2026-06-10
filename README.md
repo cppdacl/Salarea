@@ -5,6 +5,9 @@ Built in **Rust** using `eframe` + `egui` for the GUI.
 
 Salarea is a TVA, Retro-Themed, Console Style, Salary Management Platform for Solaris, an Intergalactic Hotel and Real Estate Corporation (Fictional).
 
+![Employee Entry](screenshots/entry.png)
+
+![Salary Slip](screenshots/your-image.png)
 ---
 
 ## What It Does
